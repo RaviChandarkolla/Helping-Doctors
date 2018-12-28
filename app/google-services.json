@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "279874792167",
+    "firebase_url": "https://consultdoctors-f054f.firebaseio.com",
+    "project_id": "consultdoctors-f054f",
+    "storage_bucket": "consultdoctors-f054f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279874792167:android:78e2a76fad661c57",
+        "android_client_info": {
+          "package_name": "consultdocs.com.sub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279874792167-1ag559uqtakm20eicc21i54nubq3g014.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "consultdocs.com.sub",
+            "certificate_hash": "53be642bc2635a298523e18eb000b6107f8dc7c2"
+          }
+        },
+        {
+          "client_id": "279874792167-norpqdulfoknlsq73ddqm3bh59sckg38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAna57pllqMVwjGUS2H6v53RCOSw0B2XOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279874792167-norpqdulfoknlsq73ddqm3bh59sckg38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
