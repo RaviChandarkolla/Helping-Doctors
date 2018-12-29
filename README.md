@@ -28,7 +28,7 @@ The users can consult with the doctor though an audio or video call.
 
 ## Mobile Application (Android)
 
-The android apk is present in the below location:
+The android apk is present [here](/Mobile%20App/APK/). I have used my App ID in this APK.
 
 If you want to build the application yourself follow the below steps:
 
