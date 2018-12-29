@@ -55,8 +55,8 @@ class DisplayDoctors : AppCompatActivity(), GotDoctors{
         for(items in response) {
             fromTime.add(items.fromTime.toString())
             toTime.add(items.toTime.toString())
-            userName.add(items.username.toString())
-            languages.add(items.password.toString())
+            userName.add(items.userName.toString())
+            languages.add(items.languagesKnown.toString())
             ratings.add(ApplicationConstants.EMPTY)
         }
         updateAdapter(fromTime, toTime, userName, languages, ratings)

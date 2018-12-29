@@ -5,16 +5,16 @@ import com.google.gson.annotations.SerializedName
 
 @IgnoreExtraProperties
 data class DoctorData(
-    @SerializedName("password")
-    var password: String? = "",
+    @SerializedName("languagesKnown")
+    var languagesKnown: String? = "",
     @SerializedName("email")
     var email: String? = "",
     @SerializedName("fromTime")
     var fromTime: String? = "",
     @SerializedName("toTime")
     var toTime: String? = "",
-    @SerializedName("username")
-    var username: String? = null
+    @SerializedName("userName")
+    var userName: String? = null
 ) {
     constructor(): this("", "", "", "", "")
 }
